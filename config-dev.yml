@@ -1,1 +1,2 @@
-sssss
+config:
+  info:"master brench,springcloud-config/config-dev.yml version=1"
